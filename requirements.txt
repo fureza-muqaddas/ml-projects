@@ -2,3 +2,8 @@ pandas
 numpy 
 seaborn
 matplotlib
+dotenv   # to read from env 
+mysql-connector-python
+pymysql
+load_dotenv
+scikit-learn
