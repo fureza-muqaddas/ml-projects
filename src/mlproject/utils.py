@@ -26,7 +26,7 @@ def read_sql_data():
         )
         
         logging.info("Connection Established")
-        df = pd.read_sql_query("Select * from diabetes", mydb)
+        df = pd.read_sql_query("Select * from college.students", mydb)
         print(df.head())
         mydb.close()
         return df
