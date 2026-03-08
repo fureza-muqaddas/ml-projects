@@ -7,3 +7,6 @@ mysql-connector-python
 pymysql
 load_dotenv
 scikit-learn
+catboost
+xgboost
+lightgbm
