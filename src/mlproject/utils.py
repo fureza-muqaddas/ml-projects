@@ -1,13 +1,18 @@
 import os 
 import sys   # to handle custom exceptions
 from dotenv import load_dotenv
-import pymysql  # resonsible for connecting the db
+import pymysql
+from sklearn.model_selection import GridSearchCV  # resonsible for connecting the db
 from src.mlproject.exception import  CustomException
 from src.mlproject.logger import logging
 import pandas as pd
 import pickle 
 import numpy as np
- 
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import r2_score
+from sklearn.metrics import mean_squared_error
+from sklearn.metrics import mean_absolute_error
 
 load_dotenv()
 
@@ -54,4 +59,31 @@ def load_object(file_path):
             return pickle.load(file_obj)
     except Exception as e:
         raise CustomException(e, sys)
-        
+
+def evaluate_models(X_train, y_train, X_test, y_test, models, param):
+    try:
+        report = {}
+        for i in range(len(models)):
+            model = list(models.values())[i]
+            para= param[list(models.keys())[i]]
+
+            gs = GridSearchCV(model, para, cv=5)
+            gs.fit(X_train, y_train)
+
+            model.set_params(**gs.best_params_)  # Update the model with the best parameters found by GridSearchCV
+            model.fit(X_train, y_train)  # Train the model
+
+
+
+
+            y_train_pred = model.predict(X_train)  # Predict on training data
+            y_test_pred = model.predict(X_test)  # Predict on test data
+            train_model_score = r2_score(y_train, y_train_pred)  # Evaluate the model on training data
+            test_model_score = r2_score(y_test, y_test_pred)  # Evaluate the model on test data
+           
+           
+            report[list(models.keys())[i]] = test_model_score  # Store the score in the report
+        return report
+    
+    except Exception as e:
+        raise CustomException(e, sys)
