@@ -1,11 +1,10 @@
 pandas
-numpy 
+numpy
 seaborn
 matplotlib
-dotenv   # to read from env 
+python-dotenv
 mysql-connector-python
 pymysql
-load_dotenv
 scikit-learn
 catboost
 xgboost
@@ -13,3 +12,4 @@ lightgbm
 mlflow
 Flask
 dill
+gunicorn
