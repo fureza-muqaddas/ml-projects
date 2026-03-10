@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/bdabf4d7d8d64ec3ba676922ed566521/artifacts
+end_time: 1773168162046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdabf4d7d8d64ec3ba676922ed566521
+run_name: monumental-shad-10
+run_uuid: bdabf4d7d8d64ec3ba676922ed566521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773168161940
+status: 3
+tags: []
+user_id: root

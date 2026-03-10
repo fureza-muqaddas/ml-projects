@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/2428554ddc91494685d3026dd3bb90ca/artifacts
+end_time: 1773166948254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2428554ddc91494685d3026dd3bb90ca
+run_name: honorable-goat-232
+run_uuid: 2428554ddc91494685d3026dd3bb90ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773166948152
+status: 3
+tags: []
+user_id: root

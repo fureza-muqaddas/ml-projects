@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/aa12f19518e04f8987ab57b9801c9e66/artifacts
+end_time: 1773167093586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa12f19518e04f8987ab57b9801c9e66
+run_name: sincere-shrike-828
+run_uuid: aa12f19518e04f8987ab57b9801c9e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773167093514
+status: 3
+tags: []
+user_id: root

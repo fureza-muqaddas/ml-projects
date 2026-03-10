@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/0a6e40e329dd4a569c5c0007294ac122/artifacts
+end_time: 1773122251501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a6e40e329dd4a569c5c0007294ac122
+run_name: receptive-tern-230
+run_uuid: 0a6e40e329dd4a569c5c0007294ac122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122251457
+status: 3
+tags: []
+user_id: root

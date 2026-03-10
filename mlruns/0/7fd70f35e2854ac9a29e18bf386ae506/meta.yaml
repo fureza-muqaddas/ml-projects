@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/7fd70f35e2854ac9a29e18bf386ae506/artifacts
+end_time: 1773124982380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fd70f35e2854ac9a29e18bf386ae506
+run_name: overjoyed-crab-419
+run_uuid: 7fd70f35e2854ac9a29e18bf386ae506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122883175
+status: 3
+tags: []
+user_id: root

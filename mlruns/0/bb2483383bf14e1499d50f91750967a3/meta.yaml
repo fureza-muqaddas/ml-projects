@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/bb2483383bf14e1499d50f91750967a3/artifacts
+end_time: 1773122136168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb2483383bf14e1499d50f91750967a3
+run_name: amusing-bird-515
+run_uuid: bb2483383bf14e1499d50f91750967a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122136088
+status: 3
+tags: []
+user_id: root

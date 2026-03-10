@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/d10fac0a9bc940bfb6906f10426c0509/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d10fac0a9bc940bfb6906f10426c0509
+run_name: melodic-squid-184
+run_uuid: d10fac0a9bc940bfb6906f10426c0509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773168162056
+status: 1
+tags: []
+user_id: root

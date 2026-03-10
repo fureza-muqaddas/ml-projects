@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/5ae8718e61b9419c83159d3911965e55/artifacts
+end_time: 1773122136232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ae8718e61b9419c83159d3911965e55
+run_name: wise-foal-693
+run_uuid: 5ae8718e61b9419c83159d3911965e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122136168
+status: 3
+tags: []
+user_id: root

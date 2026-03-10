@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/86351aef563f46119d4807d7f3e345fd/artifacts
+end_time: 1773125000249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86351aef563f46119d4807d7f3e345fd
+run_name: salty-eel-211
+run_uuid: 86351aef563f46119d4807d7f3e345fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122782445
+status: 3
+tags: []
+user_id: root

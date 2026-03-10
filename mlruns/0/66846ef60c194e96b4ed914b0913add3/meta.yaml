@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/66846ef60c194e96b4ed914b0913add3/artifacts
+end_time: 1773168012383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66846ef60c194e96b4ed914b0913add3
+run_name: thundering-toad-967
+run_uuid: 66846ef60c194e96b4ed914b0913add3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773167742592
+status: 3
+tags: []
+user_id: root

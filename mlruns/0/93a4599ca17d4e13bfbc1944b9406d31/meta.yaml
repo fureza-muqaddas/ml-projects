@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/93a4599ca17d4e13bfbc1944b9406d31/artifacts
+end_time: 1773122251559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93a4599ca17d4e13bfbc1944b9406d31
+run_name: dazzling-auk-381
+run_uuid: 93a4599ca17d4e13bfbc1944b9406d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122251507
+status: 3
+tags: []
+user_id: root

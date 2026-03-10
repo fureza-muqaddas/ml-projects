@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/fae126074d7c499da6ed824b195f15cc/artifacts
+end_time: 1773122782441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fae126074d7c499da6ed824b195f15cc
+run_name: dapper-pig-466
+run_uuid: fae126074d7c499da6ed824b195f15cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122782389
+status: 3
+tags: []
+user_id: root

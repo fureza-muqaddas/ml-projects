@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/47ffb87ed59d4e8daae4ad8addb9e4aa/artifacts
+end_time: 1773122883159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47ffb87ed59d4e8daae4ad8addb9e4aa
+run_name: defiant-lynx-735
+run_uuid: 47ffb87ed59d4e8daae4ad8addb9e4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773122883115
+status: 3
+tags: []
+user_id: root

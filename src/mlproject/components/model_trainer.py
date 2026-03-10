@@ -146,9 +146,9 @@ class ModelTrainer:
 
 
             if tracking_uri_type_store != "file":
-                mlflow.sklearn.log_model(best_model, "model", registered_model_name=best_model_name)
+                mlflow.sklearn.log_model(best_model, artifact_path="model", registered_model_name=best_model_name)
             else:
-                mlflow.sklearn.log_model(best_model)
+                mlflow.sklearn.log_model(best_model, artifact_path="model")
 
             if best_model_score < 0.6:
                 raise CustomException("No best model found with a score greater than 0.6", sys)

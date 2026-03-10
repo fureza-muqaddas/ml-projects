@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/84665e31e41a4a59a40fff3e522f31ea/artifacts
+end_time: 1773167611267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84665e31e41a4a59a40fff3e522f31ea
+run_name: upset-bass-794
+run_uuid: 84665e31e41a4a59a40fff3e522f31ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773167611162
+status: 3
+tags: []
+user_id: root

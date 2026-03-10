@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/1a4f269bf5434f258a60c2ef5e12da32/artifacts
+end_time: 1773154591461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a4f269bf5434f258a60c2ef5e12da32
+run_name: dapper-donkey-405
+run_uuid: 1a4f269bf5434f258a60c2ef5e12da32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773154591388
+status: 3
+tags: []
+user_id: root
