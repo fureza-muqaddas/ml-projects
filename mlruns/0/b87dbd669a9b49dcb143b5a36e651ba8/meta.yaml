@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/b87dbd669a9b49dcb143b5a36e651ba8/artifacts
+end_time: 1773179044754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b87dbd669a9b49dcb143b5a36e651ba8
+run_name: luxuriant-goose-48
+run_uuid: b87dbd669a9b49dcb143b5a36e651ba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773179044594
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Projects/ML-Projects/mlruns/0/98cfe0bf14e749848eb83ad08edea8b5/artifacts
+end_time: 1773179050606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98cfe0bf14e749848eb83ad08edea8b5
+run_name: gifted-hare-160
+run_uuid: 98cfe0bf14e749848eb83ad08edea8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773179044772
+status: 3
+tags: []
+user_id: root

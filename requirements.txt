@@ -5,7 +5,7 @@ matplotlib
 python-dotenv
 mysql-connector-python
 pymysql
-scikit-learn
+scikit-learn==1.6.1
 catboost
 xgboost
 lightgbm
